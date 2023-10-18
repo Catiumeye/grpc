@@ -1,4 +1,4 @@
-module grpc-1
+module github.com/Catiumeye/grpc
 
 go 1.21.1
 

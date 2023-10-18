@@ -1,7 +1,7 @@
 syntax = "proto3";
 
 package invoicer;
-option go_package = "invoicer/";
+option go_package = "github.com/Catiumeye/grpc/invoicer";
 
 service Invoicer {
   rpc Create(CreateRequest) returns (CreateResponse);

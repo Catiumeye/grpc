@@ -2,10 +2,10 @@ package main
 
 import (
 	"context"
-	"grpc-1/invoicer"
 	"log"
 	"net"
 
+	"github.com/Catiumeye/grpc/invoicer"
 	"google.golang.org/grpc"
 )
 
